@@ -1,14 +1,20 @@
-[
+[    
     {
-       "title":"Google DSC LEAD",
-       "desc":"Google",
-       "period":"AUG 2022 - present",
+       "title":"ORGANISER",
+       "desc":"GDSC WOW PUNE - ",
+       "period":"APRIL 2023",
        "src":"https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png"
     },
     {
        "title":"Cloud Facilitator",
        "desc":"Google Cloud",
-       "period":"DEC 2022 - JAN 2023",
+       "period":"DECEMBER 2022 - JANUARY 2023",
        "src":"https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"
+    },
+    {
+       "title":"Google DSC LEAD",
+       "desc":"Google",
+       "period":"AUGUST 2022 - JULY 2023",
+       "src":"https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png"
     }
  ]
